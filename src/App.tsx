@@ -41,7 +41,7 @@ function App() {
   return (
     <main>
       <nav className="nav wrap">
-        <a className="wordmark" href="#top">AA<span>.</span></a>
+        <a className="wordmark" href="#top">Arsalan Aslam<span>.</span></a>
         <div className="nav-links">
           <a href="#approach">Approach</a>
           <a href="#experience">Experience</a>
@@ -127,7 +127,7 @@ function App() {
         </div>
       </section>
 
-      <footer className="footer wrap"><a className="wordmark" href="#top">AA<span>.</span></a><span>Thoughtful growth. Better conversations.</span><span>© {new Date().getFullYear()} Arsalan Aslam</span></footer>
+      <footer className="footer wrap"><a className="wordmark" href="#top">Arsalan Aslam<span>.</span></a><span>Thoughtful growth. Better conversations.</span><span>© {new Date().getFullYear()} Arsalan Aslam</span></footer>
     </main>
   )
 }
